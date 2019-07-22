@@ -34,7 +34,7 @@ we use LFR-benchmarks to generate graph download from [1]
 since the LFR benchmark is probabilist, in this exemple, we generate 3 instances named "network1", "network2", "network3" in folder named "test" with the same parameters as follows: 
 		Number of node = 1000
 		The average degree k = 10
-		The mixing parameter µ = 0.2
+		The mixing parameter Âµ = 0.2
 		The maximum degree = 50
 		The community size varies between 20 and 100 
 		The number of overlapping nodes = 10%	
@@ -61,8 +61,7 @@ Apply the NMI function [1]
 
 	NMI( Restest1 , groundtruth1) = 0,991111
 	NMI( Restest2 , groundtruth2) = 0,99223
-	NMI( Restest3 , groundtruth3) = 0
-,998347
+	NMI( Restest3 , groundtruth3) = 0,998347
 
 
 
