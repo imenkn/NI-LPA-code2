@@ -61,8 +61,7 @@ Apply the NMI function [1]
 
 	NMI( Restest1 , groundtruth1) = 0,991111
 	NMI( Restest2 , groundtruth2) = 0,99223
-	NMI( Restest3 , groundtruth3) = 0
-,998347
+	NMI( Restest3 , groundtruth3) = 0,998347
 
 
 
